@@ -157,3 +157,5 @@ Se ha realizado un análisis exploratorio utilizando pandas_profiling para gener
 4. La segmentación por clase de comportamiento proporciona insights valiosos para estrategias de marketing y desarrollo de productos
 5. Se recomienda un análisis más profundo utilizando técnicas de aprendizaje automático para predecir comportamientos y personalizar experiencias
 
+[Informe de Análisis de Comportamiento de Usuarios](informe_comportamiento_usuarios.html)
+

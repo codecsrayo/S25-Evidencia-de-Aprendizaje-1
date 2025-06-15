@@ -85,7 +85,7 @@ Se ha creado un tablero en Trello para la gestión del proyecto con las siguient
 
 ### Enlace al tablero
 
-[Enlace al tablero de Trello](https://trello.com/b/XXXXXXXX/analisis-comportamiento-usuarios-moviles)
+[Enlace al tablero de Trello](https://trello.com/b/Gka92y5a/kanban-dev-board)
 
 ## IV. Creación del repositorio
 
@@ -99,7 +99,7 @@ Se ha creado un repositorio en GitHub con la siguiente estructura:
 
 ### Enlace al repositorio
 
-[Enlace al repositorio de GitHub](https://github.com/usuario/analisis-comportamiento-usuarios-moviles)
+[Enlace al repositorio de GitHub](https://github.com/codecsrayo/S25-Evidencia-de-Aprendizaje-1/tree/s2)
 
 ## V. Exploración
 

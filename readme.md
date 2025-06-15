@@ -151,6 +151,7 @@ Se ha realizado un análisis exploratorio utilizando pandas_profiling para gener
 
 ### Conclusiones
 
+[sustentación](https://www.youtube.com/watch?v=5JnqTlQq2JE)
 1. Existen patrones claros de comportamiento que pueden ser identificados y clasificados
 2. Las variables demográficas y de dispositivo influyen significativamente en los patrones de uso
 3. El consumo de batería y el tiempo de uso están estrechamente relacionados, lo que sugiere oportunidades para optimización

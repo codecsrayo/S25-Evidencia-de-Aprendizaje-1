@@ -25,7 +25,7 @@ En la actualidad, el uso de dispositivos móviles se ha convertido en una parte 
 - **Nombre del dataset**: Mobile Device Usage and User Behavior Dataset
 - **Formato**: CSV (Comma-Separated Values)
 - **Tamaño**: 700 registros x 11 columnas
-- **Fuente**: Kaggle (valakhorasani/mobile-device-usage-and-user-behavior-dataset)
+- **Fuente**: [Kaggle](https://www.kaggle.com/datasets/valakhorasani/mobile-device-usage-and-user-behavior-dataset?resource=download)
 
 ### Variables incluidas
 
